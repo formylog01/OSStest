@@ -45,3 +45,7 @@ graph TD
 A[아이디어 회의] --> B(기획안 작성)  
 B --> C{승인여부};
 ```
+
+```bash 
+python app.py
+```
